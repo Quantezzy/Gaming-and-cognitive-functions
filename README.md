@@ -53,17 +53,9 @@
 ```
 
 ## 🚀 Как запустить проект
-1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/Quantezzy/Gaming-and-cognitive-functions.git
-   ```
-2. Установите необходимые зависимости:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quantezzy/Gaming-and-cognitive-functions/blob/main/notebooks/01_EDA_and_Stats.ipynb)
-3. Скачайте данные по ссылке из раздела "Источник данных" и поместите их в папку `data/`.
-4. Запустите ноутбук и выполняйте ячейки по порядку.
+Запустите ноутбук в Google Colab по ссылке ниже. Выполняйте ячейки по порядку
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Quantezzy/Gaming-and-cognitive-functions/blob/main/notebooks/01_EDA_and_Stats.ipynb)
 
 ## 📅 Дорожная карта (Сроки реализации)
 **Период:** 06.05.2026 — 20.05.2026
